@@ -1,4 +1,6 @@
 .review-content {
     border: 1px solid gray;
     margin: 20px;
+    background-color: lightslategray;
+    border-radius: 5px;
 }

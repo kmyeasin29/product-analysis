@@ -7,9 +7,9 @@ const ReviewsDetails = ({ item }) => {
 
     return (
         <div className='review-content'>
-            <h4>{name}</h4>
-            <span> {Ratting} </span>
-            <p>{Comment}</p>
+            <h3>{name}</h3>
+            <span>Ratting: {Ratting} </span>
+            <p>Comment: {Comment}</p>
         </div>
     );
 };
