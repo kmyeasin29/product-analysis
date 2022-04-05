@@ -1,9 +1,14 @@
-import React from 'react';
+import useLoad from "../Hooks/useLoad";
+import ReviewsDetails from "./ReviewDetails";
 
 const Review = () => {
+    const [review, setReview] = useLoad()
     return (
-        <div>
-            <h1>Review page</h1>
+
+        <div className="review-content">
+            <h2>User Review</h2>
+            {review.map(item => <ReviewsDetails key={review.id} item={item}></ReviewsDetails>
+            )}
         </div>
     );
 };

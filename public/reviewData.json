@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Devon Smith",
+        "Comment": "I am satisfied  with the product",
+        "Ratting": "5 star"
+    },
+    {
+        "id": 2,
+        "name": "Christian",
+        "Comment": " Finally has me happy to own this laptop.",
+        "Ratting": "5 star"
+    },
+    {
+        "id": 3,
+        "name": "Nick",
+        "Comment": "After having a few weeks with the LG Gram, i can absolutely say this is the best laptop i have ever owned. I have had many laptops for decades, and have had desktop pcs that I build myself.",
+        "Ratting": "4.9 star"
+    },
+    {
+        "id": 4,
+        "name": "G. Rodriguez",
+        "Comment": "This is my second LG Gram so far. I bought my first one over three years ago and till this day it runs like new.",
+        "Ratting": "4.8 star"
+    },
+    {
+        "id": 5,
+        "name": "Capt. Jack",
+        "Comment": "It works well and is light. i7 11th gen is speedy. No issues, none.",
+        "Ratting": "5 star"
+    },
+    {
+        "id": 6,
+        "name": "Zane",
+        "Comment": "Light, powerful, fast, long battery life. Love this computer",
+        "Ratting": "5 star"
+    }
+]

@@ -1,0 +1,11 @@
+.header-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.text-container p {
+    font-size: 17px;
+    letter-spacing: .5px;
+    line-height: 30px;
+}
