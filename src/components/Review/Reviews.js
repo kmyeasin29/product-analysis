@@ -1,9 +1,10 @@
 import React from 'react';
 import Review from './Review';
+import './Reviews.css'
 
 const Reviews = () => {
     return (
-        <div>
+        <div className='single-product'>
             <Review></Review>
         </div>
     );
